@@ -1,4 +1,4 @@
-RESt
+REST
 ===========
 
 Apresentação disponível <a href="https://speakerdeck.com/fabricioronchi/eclipselink" target="_blank">aqui</a>.
