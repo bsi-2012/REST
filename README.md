@@ -1,7 +1,7 @@
 REST
 ===========
 
-Apresentação disponível <a href="https://speakerdeck.com/fabricioronchi/rest" target="_blank">aqui</a>.
+Apresentação disponível <a href="https://speakerdeck.com/realronchi/rest" target="_blank">aqui</a>.
 
 
 Seminário sobre REST
